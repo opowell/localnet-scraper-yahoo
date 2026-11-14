@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {
+      "name": "Yahoo",
+      "urlPattern": "search.yahoo.com/search",
+      "searchUrl": "https://search.yahoo.com/search?p={term}"
+    }
+  ],
+  "file": "yahoo.js"
+}
